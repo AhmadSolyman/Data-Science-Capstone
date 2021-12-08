@@ -7,4 +7,3 @@ IBM Applied Data Science Capstone project
 - Visualization_with_Folium.ipynb: First assignment notebook for Week 3, analyzing geospatial data.
 - spacex_dash_app.py: Second assignment for Week 3, creating web-based interactive dashboard.
 - Machine_Learning_Prediction.ipynb: Note assignment for Week , building and evaluating Machine Learning models.
-- IBM_DataScience_Capstone_project.pdf: Presentation Report
